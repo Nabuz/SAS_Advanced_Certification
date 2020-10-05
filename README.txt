@@ -1,1 +1,1 @@
-Here we have the exercises for Advanced SAS Certification .
+Here we have the exercises for Advanced SAS Certification.
